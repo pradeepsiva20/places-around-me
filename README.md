@@ -126,3 +126,10 @@ The tiger is estimated to have been present in the Indian subcontinent since the
 ![hippo](https://github.com/pradeepsiva20/places-around-me/assets/120539823/c727e541-b807-4876-8960-0872c86fcc0d)
 ![tiger](https://github.com/pradeepsiva20/places-around-me/assets/120539823/fdace7af-4fde-4f88-a5ec-ebb4df2139d3)
 ![liondeer](https://github.com/pradeepsiva20/places-around-me/assets/120539823/85dcf9f9-deb7-4217-8892-4ca7e958aec1)
+## Serverout:
+![server out](https://github.com/pradeepsiva20/places-around-me/assets/120539823/ab5d2234-9157-4d1c-bd87-bcba12d0ffcf)
+## Html validator:
+![html validator](https://github.com/pradeepsiva20/places-around-me/assets/120539823/9e9dde7f-48fa-4fcd-903d-8e3b99588a9c)
+## Result:
+The program for implementing image map is executed successsfully.
+
